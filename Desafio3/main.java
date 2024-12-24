@@ -94,49 +94,7 @@ public class main {
                     break;
 
             }
-
-
-
-
-
-
-
-
-
-
-
-
         }
-
-
-
-
-
-
-
-//        uchiha Sasuke = new uchiha();
-//        Sasuke.nome = "Sasuke Uchiha";
-//        Sasuke.idade = 18;
-//        Sasuke.missao = "Quebrar arvore";
-//        Sasuke.nivel_missao = "SS";
-//        Sasuke.status_missao = "Em andamento";
-//        Sasuke.mostrar_inf();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         scanner.close();
     }
 }
